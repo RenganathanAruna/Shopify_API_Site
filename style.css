@@ -1,0 +1,145 @@
+
+    .NavPositon {
+      position: absolute;
+      right:0px;
+      left: 0px;
+      top:0px;
+    }
+    .TextPostion{
+      position: absolute;
+      right:0px;
+      left: 75px;
+      top:270px;
+    }
+    .link_prop{
+      font-size:17px;
+      font-family: cursive;
+      color: white;
+    }
+    .brand_prop{
+      font-family: cursive;
+      color: #00fdf1;
+    }
+    .navbar-brand{
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .fa-shopify{
+      font-size: 40px;
+      color: #00fdf1;;
+    }
+    .bg_blur_navbar{
+      box-shadow: 0 -10px 40px rgba(129, 124, 124, 0.1);
+      backdrop-filter: blur(10px);
+      background-color:#9393938f;
+      height: 60px;
+    }
+
+    .product_img_size{
+      width: 220px;
+      height: 220px;
+    }
+
+    .section_header{
+      color:yellowgreen;
+    }
+    .Card_title{
+        color:gray;
+    }
+
+    .Card_devilery{
+      padding: 10px;
+      font-size: 15px;
+    }
+    
+    .rating{
+      border: 1px solid green;
+      background-color:green;
+      padding: 3px;
+      border-radius: 4px;
+      color: white;
+    }
+
+    .DisplayInline{
+      display: inline;
+    }
+
+    .fa-star{
+      font-size: 15px;
+      color:yellow;
+    }
+    .fixed{
+      position: fixed;
+      z-index: 3;
+    }
+    
+    .activeLink{
+      color:#00fdf1;
+    }
+
+    .nav-link:hover{
+      color:#00fdf1
+    }
+    
+    .banner_text_h1{
+      font-family:cursive;
+      font-size: 64px;
+      max-width: 600px;
+      color:white;
+    }
+
+    .banner_text_p{
+      font-family:cursive;
+      font-size: 18px;
+      max-width: 650px;
+    
+    }
+
+    #return-to-top {
+      position: fixed;
+      bottom: 20px;
+      right: 10px;
+      background: rgb(0, 0, 0);
+      background: rgba(0, 0, 0, 0.7);
+      width: 50px;
+      height: 50px;
+      display: block;
+      text-decoration: none;
+      -webkit-border-radius: 35px;
+      -moz-border-radius: 35px;
+      border-radius: 35px;
+      display: none;
+      -webkit-transition: all 0.3s linear;
+      -moz-transition: all 0.3s ease;
+      -ms-transition: all 0.3s ease;
+      -o-transition: all 0.3s ease;
+      transition: all 0.3s ease;
+      z-index: 3;
+    }
+    #return-to-top i {
+      color: #fff;
+      margin: 0;
+      position: relative;
+      left: 18px;
+      top: 13px;
+      font-size: 20px;
+      -webkit-transition: all 0.3s ease;
+      -moz-transition: all 0.3s ease;
+      -ms-transition: all 0.3s ease;
+      -o-transition: all 0.3s ease;
+      transition: all 0.3s ease;
+    }
+    #return-to-top:hover {
+      background: rgba(0, 0, 0, 0.9);
+    }
+    #return-to-top:hover i {
+      color: #fff;
+      top: 5px;
+    }
+    
+    .card-img-top:hover{
+      transform: scale(1.2);
+    }
+
+    
