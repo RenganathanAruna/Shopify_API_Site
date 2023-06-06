@@ -142,4 +142,10 @@
       transform: scale(1.2);
     }
 
+     @media screen and (max-width: 678px) {
+      .TextPostion{
+        height:70vh;
+      }
+    }
+
     
