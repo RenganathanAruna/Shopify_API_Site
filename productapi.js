@@ -14,7 +14,7 @@ $.ajax({
    
                  // Create a new card element
                  const card = document.createElement('div');
-                 card.classList.add("card","mb-3");
+                 card.classList.add("card","mb-3,"carddim");
    
    
    //---------------------------------------Adding data to card--------------------------------------------//
