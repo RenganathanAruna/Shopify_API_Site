@@ -84,14 +84,14 @@
     
     .banner_text_h1{
       font-family:cursive;
-      font-size: 64px;
+      font-size: 5vw;
       max-width: 600px;
       color:white;
     }
 
     .banner_text_p{
       font-family:cursive;
-      font-size: 18px;
+      font-size: 2vw;
       max-width: 650px;
     
     }
