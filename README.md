@@ -1,7 +1,7 @@
 # Shopify_API_Site
 This site is developed using fakeapi.com (product api)
 
-This is developed using HTML and CSS
+This is developed using HTML,CSS And JAVASCRIPT
 
 This app is deployed in netlify
 
